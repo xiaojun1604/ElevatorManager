@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\bin\Debug\ElevatorManager.exe.config
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\bin\Debug\ElevatorManager.exe
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\bin\Debug\ElevatorManager.pdb
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\obj\Debug\ElevatorManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\obj\Debug\ElevatorManager.exe
+C:\Users\Admin\Documents\GitHub\ElevatorManager\ElevatorManager\ElevatorManager\ElevatorManager\obj\Debug\ElevatorManager.pdb
